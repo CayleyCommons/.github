@@ -1,2 +1,3 @@
-# .github
-Organization profile and shared metadata for CayleyCommons.
+# CayleyCommons organization metadata
+
+Shared GitHub metadata and organization profile for CayleyCommons.
